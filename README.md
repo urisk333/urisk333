@@ -2,7 +2,7 @@ Hi!
 I am a Software Engineer from Split, currently based in Zagreb. Specialised in JavaScript, TypeScript and React. Additionally, having a great understanding of the backend development. Never hesitate to learn new technologies. Always motivated to improve my software development skills.
 
 Who wouldn't like all these nice technologies:
-![TypeScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
+- ![TypeScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
 
 The next ones on the menu:
 - [React Query](https://react-query.tanstack.com/)
