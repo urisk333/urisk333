@@ -7,6 +7,7 @@ Who wouldn't like all these nice technologies: <br>
 The next ones on the menu:
 - [React Query](https://react-query.tanstack.com/)
 - [Redux](https://redux.js.org/)
+- [Vue](https://vuejs.org/)
 
 Currently working on my project [Vinco](https://github.com/urisk333/vinco) - planning to add more features and refactor into Typescript.
 
