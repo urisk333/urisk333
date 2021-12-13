@@ -2,7 +2,10 @@ Hi! <br>
 I am a Software Engineer from Split, currently based in Zagreb. Specialised in JavaScript, TypeScript and React. Additionally, having a great understanding of the backend development. Never hesitate to learn new technologies. Always motivated to improve my software development skills.
 
 Who wouldn't like all these nice technologies: <br>
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
+![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png) ![TypeScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png) ![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) ![NodeJS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+
+
+
 
 
 
